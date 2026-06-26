@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thepositivelovepoet.com/sitemap.xml
+
+# Dave Tebo | The Positive Love Poet
+# https://thepositivelovepoet.com
